@@ -1,5 +1,5 @@
 def main():
-    print("Hello from class2!")
+    print("Hello from Dice Class!")
 
 
 if __name__ == "__main__":
